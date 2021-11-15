@@ -1,0 +1,113 @@
+body {
+    margin: 0 !important;
+    padding: 0 !important;
+}
+.titulodescuentos {
+    position: absolute;
+    width: 100%;
+    height: 38px;
+    left: 0px;
+    top: 0px;
+    background: #1CD1B0;
+}
+.posicionTituloDescuento{
+    margin-top: 6px;
+    margin-left: 10px;
+}
+.fondoAzulHeroes {
+    height: 101px;
+    left: 0px;
+    top: 38px;
+    box-shadow: 0px 10px 7px rgba(0, 0, 0, 0.25);
+}
+.tituloHeroes{
+    margin-left: 28px;
+    margin-top: 28px;
+}
+.text-Style-Roboto{
+    font-family: Roboto;
+}
+.contenidoFooter{
+    color:white;
+    height: 51px;
+    position:fixed;
+}
+.textoFooter{
+    margin:16px;  
+}
+.bannerFondoAzul{
+    position:absolute;
+    background: #00669F;
+    width: 100%;
+}
+.imagenTarjetaCabecera{
+    height:193px;
+    width: 300px;
+    border-radius: 16px 16px 0px 0px;
+
+}
+.cajaGris{
+    width: 300px;
+    margin-top: -8px;
+    left: 32px;
+    display: flex;
+    align-items: center;
+    background: #F3F3F3;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    flex-direction: column;
+}
+
+.tituloCajaGris {
+    font-size: 30px;
+    margin-top: 75px;
+    margin-bottom: 0px;
+}
+
+.textoDetalleCajaGris{
+    margin: 19px;
+
+}
+.corazon{
+    position: absolute;
+    margin: 20px;
+    color: #CC2424;
+    
+}
+.imagenRedonda{
+    border-radius: 50%;
+    position: absolute;
+    margin-left: 90px;
+    margin-top: -63px;
+}
+
+.botonAbajo {
+    color: #F3F3F3;
+    text-align: center;
+    font-size: 15px;
+    background: #00669F;
+    width: 140px;
+    height: 49px;
+}
+
+.contenedorBoton {
+    margin-bottom: 20px;
+}
+
+.contenedorTarjetas {
+    display: flex;
+    align-items: center;
+    align-content: center;
+    justify-content: space-evenly;
+}
+
+.spacer{
+    margin-top: 200px;
+}
+
+.bottom-spacer{
+    margin-top: 90px;
+}
+
+.tarjeta {
+    margin: 5px;
+}
